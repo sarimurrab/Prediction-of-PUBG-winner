@@ -1,2 +1,3 @@
 # Prediction-of-PUBG-winner
-This repo is about analysis and prediction of winner in video game called PUBG.
+This project  is being created in a Data Science Workshop from Edureka.
+
